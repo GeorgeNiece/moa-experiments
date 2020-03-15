@@ -40,7 +40,7 @@ spec:
     spec:
       containers:
       - name: echocolor
-        image: reselbob/echocolor:v0.1
+        image: GeorgeNiece/echocolor:v0.1
         ports:
         - containerPort: 3000
         env:
@@ -56,7 +56,7 @@ like so:
 
 Then click the UPLOAD button.
 
-You've now adde a deployment named, `deployment-red` to the cluster. The deployment will create 10 pods using the continaer image, `reselbob/echocolor:v0.1`.
+You've now adde a deployment named, `deployment-red` to the cluster. The deployment will create 10 pods using the container image, `GeorgeNiece/echocolor:v0.1`.
 
 eselbob/echocolor:v0.1
 

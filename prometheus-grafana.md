@@ -8,11 +8,11 @@ The purpose of this lab is demonstrate how to view a microservice oriented archt
 
 **Step 3:** Clone the code from the GitHub respository.
 
-`git clone https://github.com/reselbob/dockerdemos.git`
+`git clone https://github.com/GeorgeNiece/docker-experiments.git`
 
 **Step 4:** Navigate to this Food Court project
 
-`cd dockerdemos/foodcourt/`
+`cd docker-experiments/foodcourt/`
 
 **Step 5:** Bring up the application under Docker Compose
 
@@ -112,4 +112,4 @@ Notice that `${service}` is a variable that refers to a DNS name. The DNS name i
 The values in the array, `services` correspond to the service names defined in the 
 `docker-compose.yaml` file which you can view [here](docker-compose.yaml).
 
-Install the synchronous version of the Fortune Cookies microservice oriented application (MOA) as described [here](https://github.com/reselbob/fortune-cookies/tree/master/microservice-sync).
+Install the synchronous version of the Fortune Cookies microservice oriented application (MOA) as described [here](https://github.com/GeorgeNiece/fortune-cookies/tree/master/microservice-sync).

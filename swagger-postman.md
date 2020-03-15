@@ -45,6 +45,6 @@ Contact your instructor if you need clarification, experience any problems or ha
 **Step 7:** Once you are done working the lab, you can compare your work to the example that in this zip file, `airport-codes.zip`. The zip
 file is password protected. Contact the instructor to get the password you need to open the zip file. Execute the following command to download the file, airport-codes.zip
 
-`curl -LO https://github.com/reselbob/innosoft-adv-microservices/blob/master/airport-codes.zip`
+`curl -LO https://github.com/GeorgeNiece/innosoft-adv-microservices/blob/master/airport-codes.zip`
 
 **Congratulations!** The exercise is complete.
